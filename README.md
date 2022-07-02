@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Fajar Aji Kusuma!
-All knowledge can be learned easily, but difficult to understand let alone practiced.
-Like love that is difficult to understand what the woman wants.🙏
+All knowledge can be learned easily, but difficult to understand let alone practiced. <br>
+Like love that is difficult to understand what the woman wants.😋 <br>
 It's all about consistency.🤙
 
 <!-- ## Maybe used often:
