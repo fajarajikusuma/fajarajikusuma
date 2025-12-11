@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [**Dinas Lingkungan Hidup Kota Pekalongan**](https://dlh.pekalongankota.go.id/)
 
-- 🧠 I’m currently learning **Codeigniter 4**, **Python** and **Laravel 11**
+- 🧠 I’m currently learning **Codeigniter 4**, **Python** and **Laravel**
 
 - 👯 I’m looking to collaborate on [**OFFTHEGRID**](https://offthegrid.vercel.app/)
 
